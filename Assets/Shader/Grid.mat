@@ -57,14 +57,14 @@ Material:
         m_Offset: {x: 0, y: 0}
     m_Floats:
     - _BumpScale: 1
-    - _CellSize: 0.1
+    - _CellSize: 0.027
     - _Cutoff: 0.5
     - _DetailNormalMapScale: 1
     - _DstBlend: 0
     - _GlossMapScale: 1
     - _Glossiness: 0.5
     - _GlossyReflections: 1
-    - _GridWidth: 0.008
+    - _GridWidth: 0.0039
     - _Metallic: 0
     - _Mode: 0
     - _OcclusionStrength: 1
