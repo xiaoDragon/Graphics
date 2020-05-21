@@ -85,4 +85,5 @@ Shader "Custom/NormalMapTangentSpaceMat"
             ENDCG
         }   
     }
+    Fallback "Specular"
 }
