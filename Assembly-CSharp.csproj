@@ -82,6 +82,7 @@
      <None Include="Assets\Book\Shaders\DiffusePixel.shader" />
      <None Include="Assets\Shaders\Water.shader" />
      <None Include="Assets\Dev\Shaders\VertexShader.shader" />
+     <None Include="Assets\Book\Shaders\AlphaTestMat.shader" />
      <None Include="Assets\Dev\Shaders\SurfaceShader1.shader" />
      <None Include="Assets\Book\Shaders\DiffuseVertex.shader" />
      <None Include="Assets\Dev\Shaders\CubeShader.shader" />
