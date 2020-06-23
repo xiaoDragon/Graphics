@@ -5,7 +5,7 @@ Shader "Custom/AlphaTestMat"
     Properties
     {
         _Color("Main Tint",Color) = (1,1,1,1)
-        _MainTex("Main Tex",2D) = "white"{}
+        _MainTex("Main Tex",2D) = "white" {}
         _Cutoff("Alpha Cutoff",Range(0,1)) = 0.5
     }
     SubShader
